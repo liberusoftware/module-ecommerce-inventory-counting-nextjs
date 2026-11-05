@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-inventory-counting-nextjs",
+  "capabilityKey": "planned:ecommerce:inventory-counting",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-inventory-counting-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/inventory-counting.md",
+  "presentationPlan": "projects/ecommerce/nextjs/inventory-counting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
